@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://files.catbox.moe/eajmt4.gif" width="100%" />
+  <img src="https://files.catbox.moe/cefqtl.webp" width="100%" />
 </div>
 
 <br/>
@@ -22,5 +22,5 @@
 <br/><br/>
 
 <div align="center">
-  <img src="https://files.catbox.moe/eajmt4.gif" width="100%" />
+  <img src="https://files.catbox.moe/cefqtl.webp" width="100%" />
 </div>
