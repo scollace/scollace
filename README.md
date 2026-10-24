@@ -1,11 +1,5 @@
 
 <div align="center">
-  <img src="https://files.catbox.moe/cefqtl.webp" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://files.catbox.moe/o8c0wo.png" width="400" />
 </div>
 
@@ -17,10 +11,4 @@
   <a href="https://strawberryfag.straw.page">straw</a>
   &nbsp;&nbsp;
   <a href="https://x.com/rabidberry">twitter</a>
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <img src="https://files.catbox.moe/cefqtl.webp" width="100%" />
 </div>
